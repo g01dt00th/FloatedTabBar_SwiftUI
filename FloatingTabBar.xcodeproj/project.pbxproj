@@ -13,6 +13,7 @@
 		5E5A8F0F23F2B10F0075C068 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E5A8F0E23F2B10F0075C068 /* Assets.xcassets */; };
 		5E5A8F1223F2B10F0075C068 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5E5A8F1123F2B10F0075C068 /* Preview Assets.xcassets */; };
 		5E5A8F1523F2B10F0075C068 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5E5A8F1323F2B10F0075C068 /* LaunchScreen.storyboard */; };
+		5E5A8F1D23F2B2930075C068 /* FloatingTabbar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5E5A8F1C23F2B2930075C068 /* FloatingTabbar.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		5E5A8F1123F2B10F0075C068 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5E5A8F1423F2B10F0075C068 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		5E5A8F1623F2B10F0075C068 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		5E5A8F1C23F2B2930075C068 /* FloatingTabbar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FloatingTabbar.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				5E5A8F0823F2B10C0075C068 /* AppDelegate.swift */,
 				5E5A8F0A23F2B10C0075C068 /* SceneDelegate.swift */,
 				5E5A8F0C23F2B10C0075C068 /* ContentView.swift */,
+				5E5A8F1C23F2B2930075C068 /* FloatingTabbar.swift */,
 				5E5A8F0E23F2B10F0075C068 /* Assets.xcassets */,
 				5E5A8F1323F2B10F0075C068 /* LaunchScreen.storyboard */,
 				5E5A8F1623F2B10F0075C068 /* Info.plist */,
@@ -149,6 +152,7 @@
 				5E5A8F0923F2B10C0075C068 /* AppDelegate.swift in Sources */,
 				5E5A8F0B23F2B10C0075C068 /* SceneDelegate.swift in Sources */,
 				5E5A8F0D23F2B10C0075C068 /* ContentView.swift in Sources */,
+				5E5A8F1D23F2B2930075C068 /* FloatingTabbar.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
